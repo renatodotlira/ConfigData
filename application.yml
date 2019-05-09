@@ -25,5 +25,5 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
-  profiles: noun
+  profiles: lab-4-noun
 words: boat,book,vote,seat,backpack,partition,groundhog  
