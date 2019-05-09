@@ -5,11 +5,6 @@ eureka:
 
 ---
 spring:
-  profiles: words-subject
-words: I,You,He,She,It
-
----
-spring:
   profiles: words-verb
 words: ran,knew,had,saw,bought
 
