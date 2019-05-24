@@ -16,7 +16,7 @@ words: a,the
 ---
 spring:
   profiles: words-adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: silvio santos
 wordConfig:
   words: reasonable
 
