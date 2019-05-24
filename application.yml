@@ -17,6 +17,8 @@ words: a,the
 spring:
   profiles: words-adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
+wordConfig:
+  words: reasonable
 
 ---
 spring:
