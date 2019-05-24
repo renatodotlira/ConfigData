@@ -20,5 +20,11 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
+  profiles: adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely
+
+
+---
+spring:
   profiles: words-noum
 words: boat,book,vote,seat,backpack,partition,groundhog  
