@@ -22,6 +22,8 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 spring:
   profiles: adjective
 words: teste
+wordconfig:
+  words: teste
 
 
 
