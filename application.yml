@@ -25,7 +25,7 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
-  profiles: noum
+  profiles: noun
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
