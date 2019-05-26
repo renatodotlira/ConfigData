@@ -41,7 +41,7 @@ words: ran,knew,had,saw,bought
 ---
 spring:
   profiles: subject
-words: change,I,You,He,She,It
+words: I,You,He,She,It
 
 ---
 spring:
