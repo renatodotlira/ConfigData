@@ -31,7 +31,8 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: article
-words: a,the
+words: x,y
+#words: a,the
 
 ---
 spring:
